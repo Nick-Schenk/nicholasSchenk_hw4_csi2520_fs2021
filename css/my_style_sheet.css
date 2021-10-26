@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(172, 172, 172);
+    color: #000000;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a:hover{
+    background-color: rgb(0, 26, 255);
+    color: rgb(236, 236, 236);
+}
+
+h1{
+    color: rgb(246, 250, 40);
+    font-size: 350%;
+    background-color: rgb(96, 0, 185);
+    font-style: oblique;
+    text-align: center;
+}
+
+li{
+    text-align: left;
+}
+
+section, main{
+    display: block;
+}
+
+h4{
+    background-color: rgb(0, 247, 255);
+    color: rgb(255, 102, 0);
+    width: 700px;
+}
+
+h5{
+    font-size: 125%;
+    color: rgb(24, 121, 29);
+}
+
+p{
+    width: 50%;
+    line-height: 20px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    padding: 10px, 10px, 0px, 10px;
+    height: 50px;
+    background-color: rgb(92, 92, 92);
+}
